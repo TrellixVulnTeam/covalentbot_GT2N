@@ -1,4 +1,3 @@
-![image0](https://user-images.githubusercontent.com/49750349/126867951-20d1139e-67d8-49d0-b2d4-db7c8da7345f.png)
 ![Group 7](https://user-images.githubusercontent.com/49750349/126865834-a0f6a3db-4620-4aa1-be01-67fba21901fc.jpg)
 
 # CovalentBot
@@ -36,6 +35,7 @@ If you would like to test the admin panel in a demo for tickets, write to the us
 ![image](https://user-images.githubusercontent.com/49750349/126867528-4d9d80c3-f181-496c-a43e-5f97e63e2fa7.png)
 ![image](https://user-images.githubusercontent.com/49750349/126867535-69b83bf7-276a-4126-8c9d-f0b7a35aa8af.png)
 ![image](https://user-images.githubusercontent.com/49750349/126867550-67311512-e3eb-4500-967d-7668c96ad7d6.png)
+![image0](https://user-images.githubusercontent.com/49750349/126867951-20d1139e-67d8-49d0-b2d4-db7c8da7345f.png)
 
 
 <i>The bot is fully implemented, but needs testing. If you find bugs in the bot, let me know and I will fix the bugs.</i>
