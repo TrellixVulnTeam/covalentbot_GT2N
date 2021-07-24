@@ -6,16 +6,26 @@ Discord support bot
 </h3>
 
 # Demo
-https://mezhcoder.github.io/game15/
+https://discord.gg/CfvS8C82</br>
+Go to the conversation and select the Covalent Bot user.</br>
+Please write to him in private messages for testing.</br>
 
 # Install
-Llalalaa
-</br>
-Ohohohoh
-```js
-let game = new Game();
-game.generate(false); //если установить true поле будет сгенерировано случайно
+Upload the repository to your project.</br>
+Install all dependencies from package.json</br>
+Also paste, your Discord bot token in config.json</br>
+
+# Run
+```sh
+node index.js
 ```
 
-<i>Beta version</i>
+# Admin panel
+Unfortunately, regular users do not have access to the admin panel.</br>
+It is necessary to enter them into the database.</br>
+If you would like to test the admin panel in a demo for tickets, write to the user on Discord: zhcoder # 7959</br>
+
+# Screenshots
+
+<i>The bot is fully implemented, but needs testing. If you find bugs in the bot, let me know and I will fix the bugs.</i>
 
