@@ -1,3 +1,4 @@
+![image0](https://user-images.githubusercontent.com/49750349/126867951-20d1139e-67d8-49d0-b2d4-db7c8da7345f.png)
 ![Group 7](https://user-images.githubusercontent.com/49750349/126865834-a0f6a3db-4620-4aa1-be01-67fba21901fc.jpg)
 
 # CovalentBot
